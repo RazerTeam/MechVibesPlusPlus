@@ -2,7 +2,7 @@
 
 MechVibes++: [mechvibes++ download](https://github.com/PyroCalzone/MechVibesPlusPlus/releases/download/v2.4.0/MechvibesPlusPlus.Setup.2.4.0.exe)
 
-MechVibes++ Custom Mouse/Keyboard Sounds: SOON
+MechVibes++ Custom Mouse/Keyboard : [Download Custom Sounds](https://github.com/RazerTeam/MechVibesPlusPlus/releases/download/soundpack/MechVibesPlusPlus.KeyboardxMouse.7z )
 
 ## Credits
 
